@@ -9,6 +9,8 @@ no wall clock. Confidence: high for the ledger and decision math (unit-tested,
 
 as of 2026-10-11
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Code that fans out to multiple rate-limited APIs usually hard-codes
